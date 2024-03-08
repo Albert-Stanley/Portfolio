@@ -4,7 +4,7 @@
     --cor--primaria: #265073;/*backgound by (color hunt)*/
     --cor--secundaria: #9AD0C2;/*fonte padrap*/
     --cor--terciaria: #F1FADA; /*destaque*/
-    --cor--hover: #2D9596;
+    --cor--hover: #2D9596;/*hover*/
 
     --fonte--primaria:  'Krona One', sans-serif;
     --fonte--secundaria: 'Montserrat',sans-serif;
@@ -131,6 +131,14 @@ body {
 
     .cabecalho__menu{
         justify-content: center;
+    }
+
+    .cabecalho__menu__link{
+        font-family: var(--fonte--secundaria);
+        font-size: 20px;
+        font-weight: 600;
+        color:var(--cor--secundaria);
+        text-decoration: none;
     }
     
     .apresentacao{
