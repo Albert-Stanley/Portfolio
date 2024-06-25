@@ -2,11 +2,17 @@ Olá!
 
 Este repositório contém o código-fonte do meu primeiro projeto de portfólio.
 
-Sinta-se à vontade para:
+🚀 Tecnologias Utilizadas
+HTML
+CSS
+📱 Responsividade
+Aprendi a tornar meu site responsivo para diferentes telas, garantindo uma boa experiência em dispositivos móveis, tablets e desktops.
 
-Explorar o código-fonte e aprender com ele.
-Usar o projeto como base para seus próprios projetos.
-Contribuir com o projeto, enviando pull requests com sugestões de melhorias.
-Espero que este repositório seja útil para você!
+🎨 Media Query
+Descobri como usar Media Queries para aplicar estilos específicos a diferentes tamanhos de tela, tornando o design mais flexível e adaptável.
 
-Obrigado por seu interesse!
+📂 GitHub
+Criei uma conta no GitHub para armazenar e versionar meu código na nuvem, facilitando o compartilhamento e a colaboração em projetos futuros.
+
+📏 Medidas Absolutas e Relativas
+Entendi a diferença entre medidas absolutas (px, cm, mm) e relativas (em, rem, %) e como usá-las de forma eficaz para um design consistente e responsivo.
